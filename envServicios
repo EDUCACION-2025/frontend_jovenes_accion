@@ -1,0 +1,3 @@
+BASE_URL=https://ecuatorianos.deporte.gob.ec
+VUE_APP_URL_AXIOS=https://ecuatorianos.deporte.gob.ec/ecuatorianos/
+VUE_APP_URL_APLICATIVO_INCENTIVO=ECUATORIANOS_EN_ACCION

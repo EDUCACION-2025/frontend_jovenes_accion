@@ -1,0 +1,3 @@
+BASE_URL=https://jovenes.minedec.gob.ec/
+VUE_APP_URL_AXIOS=https://jovenes.minedec.gob.ec/servidor/
+VUE_APP_URL_APLICATIVO_INCENTIVO=ECUATORIANOS_EN_ACCION
