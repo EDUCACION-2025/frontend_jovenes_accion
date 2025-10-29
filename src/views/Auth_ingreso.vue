@@ -137,13 +137,13 @@
                       </a>
                     </div>
 
-                    <div class="flex justify-center items-center mt-2 mb-1 w-full">
+                    <!-- <div class="flex justify-center items-center mt-2 mb-1 w-full">
                       <a href="./documentosAnexos/guiaDeUsuario.pdf" download="guiaDeUsuario.pdf"
                         class="w-full px-2 py-2 bg-blue-500 text-white font-semibold text-xs rounded-lg shadow-md hover:bg-blue-600 transition duration-200 flex justify-center">
                         <i class="fa-solid fa-file-pdf mr-2"></i>
                         Descargar Guía de Usuario
                       </a>
-                    </div>
+                    </div> -->
 
                   </form>
                 </div>
